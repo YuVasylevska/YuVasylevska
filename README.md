@@ -28,3 +28,9 @@ An IT recruiter who has decided to cross over to the "dark side" of testing and 
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=SDLC&logoColor=47C5FB)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-090909?style=for-the-badge&logo=SDLC&logoColor=47C5FB)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=SDLC&logoColor=47C5FB)
+
+<br>
+<br>
+<br>
+
+![](https://komarev.com/ghpvc/?username=YuVasylevska&color=000000)
