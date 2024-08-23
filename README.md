@@ -1,8 +1,6 @@
 # Hi there !
 
-```
-An IT recruiter who has decided to cross over to the "dark side" of testing and is now ready to hunt for bugs instead of candidates.
-```
+
 
 ## Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuliia-vasylevska-a92b11187/)
