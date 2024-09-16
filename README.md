@@ -1,10 +1,6 @@
 # Hi there !
 
 
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTB5c2JpY3J1MXFkaTB5ZGFhbzQ0cmtobW1yb3NldWtqenMzcmxobCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X8Vx8K7fv54g9jMWQ5/giphy.webp" alt="Центрированная GIF-анимация">
-</p>
-
 ## Follow Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuliia-vasylevska-a92b11187/)
 [![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YuVasylevska)
